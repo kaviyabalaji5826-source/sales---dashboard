@@ -25,5 +25,9 @@ The dashboard helps to track sales performance by category, product, and date us
 - Dashboard allows quick filtering by date
 - Sales trends can be analyzed visually
 
+- ##Dashboard preview
+- ![Dashboard Screenshot]
+- sales Dashboard.jpg
+
 ## Author
 Kaviya Balaji
